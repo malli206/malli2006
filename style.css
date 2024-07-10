@@ -1,0 +1,27 @@
+body{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmGRR8b73yKYCbhfP6csUx9uoMGQx7VRJnPQ&s);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#main{
+    height: 450px;
+    width: 450px;
+    border:5px solid black ;
+    border-color:lightsteelblue;
+    margin:auto;
+    margin-top: 50px;
+    background:lightskyblue;
+    text-align: center;
+}
+#rules{
+    text-align: justify;
+    margin-left: 50px;
+}
+#btn{
+    border-radius: 20px;
+    font-size: large;
+    margin: auto;
+
+
+}
